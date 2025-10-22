@@ -1,0 +1,14 @@
+﻿nba_api
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+ngboost
+sqlalchemy
+psycopg2-binary
+python-dotenv
+tenacity
+fastapi
+uvicorn
